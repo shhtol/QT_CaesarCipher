@@ -1,2 +1,2 @@
 # QT_CaesarCipher
-Simple ciphertext device. Work via main.cpp
+Simple ciphertext device. Add the text via main.cpp
